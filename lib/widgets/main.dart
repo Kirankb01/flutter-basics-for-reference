@@ -125,7 +125,7 @@ class _HomePageState extends State<HomePage> {
                   children: [
                     const Text('Welcome To Reality',
                       style: TextStyle(
-                        color: Colors.deepPurpleAccent,
+                        color: Colors.blue,
                         fontSize: 25,
 
                       ),
